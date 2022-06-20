@@ -9,9 +9,11 @@ body{
 }
 .left-section{
     background-color: #333;
+    grid-column: 300px;
 }
 .right-section{
     background-color: goldenrod;
+    grid-column: 700px;
     width: 90%;
 }
 .left-content{
