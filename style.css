@@ -9,11 +9,11 @@ body{
 }
 .left-section{
     background-color: #333;
-    width:90%;
+    grid-column:span 1;
 }
 .right-section{
     background-color: goldenrod;
-    width:90%;
+    grid-column:span 1/ span 2;
 }
 .left-content{
     padding: 1rem;
