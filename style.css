@@ -12,7 +12,6 @@ body{
 }
 .right-section{
     background-color: goldenrod;
-    width: 90%;
 }
 .left-content{
     padding: 1rem;
@@ -38,13 +37,13 @@ max-width: 100%;
     text-align: center;
     text-transform: uppercase;
 }
-.Designation{
+.designation{
     font-size: 1rem;
     text-align: center;
     text-transform: uppercase;
     padding-bottom: 0.5rem;
 }
-.Description{
+.description{
     font-size: 0.75rem;
     text-align: center;
     padding: 1rem;
