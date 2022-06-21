@@ -2,18 +2,16 @@
     display: grid;
     min-height: 1000px;
     grid-template-columns: 300px 700px;
-    max-width: 90%;
+    width: 90%;
 }
 body{
     font-family: 'Montserrat', sans-serif;
 }
 .left-section{
     background-color: #333;
-    width:90%;
 }
 .right-section{
     background-color: goldenrod;
-    width:90%;
 }
 .left-content{
     padding: 1rem;
